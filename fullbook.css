@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(158, 190, 31, 0.562);
+}
+a{
+    color: #000;
+}
+.booka{
+    margin-top: 50px;
+    margin-left:50px ;
+}
+.row h2{
+    color: rgb(0, 8, 255);
+
+}
+.row h3{
+    color:rgba(21, 0, 255, 0.412) ;
+}
+.card h5{
+    color:rgba(60, 0, 255, 0.412) ;
+}
+.comics h1{
+    color: #000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
