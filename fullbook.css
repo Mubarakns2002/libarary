@@ -22,3 +22,8 @@ a{
     color: #000;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+ h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    color:rgb(5, 89, 5);
+}
