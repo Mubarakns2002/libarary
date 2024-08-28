@@ -16,7 +16,7 @@ a{
     color:rgba(21, 0, 255, 0.412) ;
 }
 .card h5{
-    color:rgba(60, 0, 255, 0.412) ;
+    color:rgb(231, 229, 238) ;
 }
 .comics h1{
     color: #000;
@@ -26,4 +26,9 @@ a{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: large;
     color:rgb(5, 89, 5);
+}
+.card{
+    margin-left: 20px;
+    margin-right:20px;
+    justify-content: space-between;
 }
